@@ -1,4 +1,4 @@
-# dotslasch_smartcity
+# dotslash_smartcity
 
 We're building GAN generator for generating apartment floor plan designs.
 
