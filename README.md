@@ -31,7 +31,7 @@ Rename folder with name weights and place it inside dotslasch_smartcity folder
 ```bash
 python apartment_generator_final.py
 ```
- 
+</details>
 
 ## Challenges we ran into
 We faced multiple challenges in this project,
