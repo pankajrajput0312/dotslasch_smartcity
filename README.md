@@ -24,8 +24,8 @@ pip install -r requirements.txt  # install
 
 Download weights from this [Link](https://drive.google.com/drive/folders/1ruDtsEx0feTdFYE2BtSxVGSWshppkX8G?usp=sharing)
 Rename folder with name weights and place it inside dotslasch_smartcity folder
-
-<details>
+</details>
+<details open>
 <summary>Inference with apartment_generator_final.py</summary>
 
 ```bash
