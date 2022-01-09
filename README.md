@@ -36,7 +36,7 @@ python apartment_generator_final.py
 ## Challenges we ran into
 We faced multiple challenges in this project,
 1) our biggest challenge is, finding a dataset, there is no open-source dataset available for the floor plan design generation.
-So we talked to the Walkin design studio to provide architecture furniture designs to us.
+So we talked to the some architecture_designersto provide architecture furniture designs to us.
 2) Even after getting furniture design problem doesn't resolve because each and every furniture designs are different, so we planned to regenerate the dataset using those floor plans designs. for that we label each and every region of furniture, then write code to make it generalize
 3) Connecting the Deep Learning model with the GUI.
 
